@@ -9,7 +9,7 @@ tools{
 stages{
 	stage('Checkout'){
 		steps{
-			git branch:'main', url:<https://github.com/Bankai043/LabTest2-Immutable-.git>
+			git branch:'main', url:<https://github.com/Bankai043/LabTest-Immutable-.git>
 		}
 	}
 	
